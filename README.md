@@ -1,2 +1,2 @@
-YGGT
+YGG
 # PHP16
