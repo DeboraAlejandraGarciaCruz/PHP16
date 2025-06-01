@@ -1,2 +1,2 @@
-BYHHH
+BYHH
 # PHP16
