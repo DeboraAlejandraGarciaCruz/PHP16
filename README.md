@@ -1,3 +1,3 @@
-HzYdJ
+HzYd
 # PHP16x
 Hx
