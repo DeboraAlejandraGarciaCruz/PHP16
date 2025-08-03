@@ -1,3 +1,3 @@
-XXxXY
+XXXxXY
 # PHP16
 
