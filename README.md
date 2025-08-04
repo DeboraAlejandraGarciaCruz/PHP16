@@ -1,3 +1,3 @@
-XXXx
+XXX
 # PHP16
 
